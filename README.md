@@ -12,7 +12,6 @@
 <div style="display: inline_block"><br>
 
 <img align="center" alt="Ged-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://giffiles.alphacoders.com/215/215753.gif">
 
 </div>
 
