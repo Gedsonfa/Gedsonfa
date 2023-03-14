@@ -1,7 +1,6 @@
 ### Opa bão ?
 
-- 🌱 Estou estudando C
-- 😄 Pronomes: ele/dele
+- 🌱 Estou estudando Dart
 
 <p align="center">
   <a href="https://github.com/Gedsonfa">
