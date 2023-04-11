@@ -1,10 +1,11 @@
-### Opa bão ?
+### alone you can't even be a cuckold
 
 - 🌱 Estou estudando Dart
 
 <p align="center">
   <a href="https://github.com/Gedsonfa">
-  <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gedsonfa&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gedsonfa&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180cm" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGU0NWRlZjM3NTY1ZGIwYmQ5MzI1MDhjMDgzMzQxMjUzNGYwNTJiZiZjdD1n/BK1EfIsdkKZMY/giphy.gif"/>
 </p>
 
 <div style="display: inline_block"><br>
