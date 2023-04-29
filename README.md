@@ -1,16 +1,15 @@
-### alone you can't even be a cuckold
+### I only know that I know nothing
 
-- 🌱 Estou estudando Dart
+- 🌱 I'm studying Dart/Flutter
 
 <p>
   <a href="https://github.com/Gedsonfa">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gedsonfa&layout=compact&langs_count=7&theme=dracula"/>
-  <a>
-  <img height="180cm" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGU0NWRlZjM3NTY1ZGIwYmQ5MzI1MDhjMDgzMzQxMjUzNGYwNTJiZiZjdD1n/BK1EfIsdkKZMY/giphy.gif"/>
+  <img height="300cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gedsonfa&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 <div style="display: inline_block"><br>
 
 <img align="center" alt="Ged-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Ged-F" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 
 </div>
 
