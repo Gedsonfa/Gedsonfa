@@ -1,6 +1,5 @@
 ### I only know that I know nothing
 
-- 🌱 I'm studying Dart/Flutter
 
 <p>
   <a href="https://github.com/Gedsonfa">
