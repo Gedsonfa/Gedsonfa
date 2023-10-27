@@ -11,7 +11,7 @@
   <img align="center" alt="Ged-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Ged-F" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
   <img align="center" alt="Ged-JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Ged-Windows" height="90" width="80" src="https://www.svgrepo.com/show/376344/python.svg">
+  <img align="center" alt="Ged-Windows" height="50" width="50" src="https://www.svgrepo.com/show/376344/python.svg">
 </div>
 
 ##
