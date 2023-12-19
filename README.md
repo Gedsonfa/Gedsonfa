@@ -1,6 +1,6 @@
 ### I only know that I know nothing
 
-🌱- I'm studying JS
+🌱- I'm studying embedded systems
     
 <div style="display: inline_block"><br>
   <img align="center" alt="Ged-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
