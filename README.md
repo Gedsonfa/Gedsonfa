@@ -12,7 +12,7 @@
 
 <p>
 
-<a href="https://www.instagram.com/gedsonfa/"><img width="18" height="18" src="https://cdn.svgporn.com/logos/instagram-icon.svg" /></a>
+<a href="www.linkedin.com/in/gedson-fernandes-17b082239"><img width="18" height="18" src="https://cdn.svgporn.com/logos/linkedin-icon.svg" /></a>
 
 </p>
 
@@ -20,11 +20,15 @@ Hi, I'm Gedson, an information systems student at CERES-UFRN, located in Caicó,
 
 <p>
 
-<a href = "https://www.instagram.com/gedsonfa/"> [Instagram] </a> 
+<a href = "www.linkedin.com/in/gedson-fernandes-17b082239"> [Linkedin] </a> 
 
 </p>
 
-<img src="https://i.redd.it/kgegurof1pe81.gif" align="center" alt="azazel" height="90" width="90"/>
+<a href = "https://www.reddit.com/r/wallpaper/comments/wlz9uo/my_collection_of_8_bit_live_wallpaper_gifs/">
+
+<img src="https://preview.redd.it/bpxxqqvps4h91.gif?width=640&crop=smart&auto=webp&s=e29a6c5b5996e595d29e52030ed4e9abe618e3bd" align="center" alt="gif" height="120" width="400"/>
+
+</a>
 
 <div>
 
