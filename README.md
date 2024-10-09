@@ -43,8 +43,8 @@ Hi, I'm Gedson, an information systems student at CERES-UFRN, located in Caicó,
 <br>
 
 <p>
-  <a href="https://wangchujiang.com/"><img height="100" src="https://github-readme-stats-one-mu-82.vercel.app/api?username=Gedsonfa&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true&hide=contribs,issues" /></a>
-  <a href="https://wangchujiang.com/"><img height="100" src="https://github-profile-trophy.vercel.app/?username=Gedsonfa&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=1&column=4" /></a>
+  <a><img height="100" src="https://github-readme-stats-one-mu-82.vercel.app/api?username=Gedsonfa&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true&hide_border=true&hide=contribs,issues" /></a>
+  <a><img height="100" src="https://github-profile-trophy.vercel.app/?username=Gedsonfa&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=1&column=4" /></a>
 </p>
 
 <!--repos-start-->
