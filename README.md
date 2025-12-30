@@ -12,15 +12,15 @@
 
 <p>
 
-<a href="www.linkedin.com/in/gedson-fernandes-17b082239"><img width="18" height="18" src="https://cdn.svgporn.com/logos/linkedin-icon.svg" /></a>
+<a href="www.linkedin.com/in/gedsonfa"><img width="18" height="18" src="https://cdn.svgporn.com/logos/linkedin-icon.svg" /></a>
 
 </p>
 
-Hi, I'm Gedson, an information systems student at CERES-UFRN, located in Caicó, RN, Brazil.
+Hello, my name is Gedson and I have a degree in Information Systems from CERES-UFRN, located in Caicó, RN, Brazil.
 
 <p>
 
-<a href = "www.linkedin.com/in/gedson-fernandes-17b082239"> [Linkedin] </a> 
+<a href = "www.linkedin.com/in/gedsonfa"> [Linkedin] </a> 
 
 </p>
 
@@ -43,15 +43,14 @@ Hi, I'm Gedson, an information systems student at CERES-UFRN, located in Caicó,
 <br>
 
 <p>
-  <a><img height="100" src="https://github-readme-stats.vercel.app/api?username=Gedsonfa&hide=contribs,prs" /></a>
-  <a><img height="100" src="https://github-profile-trophy.vercel.app/?username=Gedsonfa&theme=flat&title=Stars,Followers,Commit,MultiLanguage&margin-w=5&row=1&column=4" /></a>
+
 </p>
 
 <!--repos-start-->
 
-**Handbook** | **Homepage** | **Stars** | **Last Commit** | **Downloads**
-:--- | --- | :--- | :--- | :---
-[invAuto](https://github.com/Gedsonfa/invAuto) | [`#homepage`](https://github.com/Gedsonfa/invAuto) | [![GitHub stars](https://img.shields.io/github/stars/Gedsonfa/invAuto?style=flat)](https://github.com/Gedsonfa/invAuto/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/Gedsonfa/invAuto?style=flat&label=last)](https://github.com/Gedsonfa/invAuto/commits) | [![NPM Downloads](https://img.shields.io/npm/dm/invAuto.svg?label=&logo=npm&style=flat&labelColor=ffacab&color=dd4e4c)](https://www.npmjs.com/package/invAuto)
+**Handbook** | **Homepage** | **Stars** | **Last Commit** 
+:--- | --- | :--- | :--- 
+[ignite](https://github.com/Gedsonfa/ignite) | [`#homepage`](https://github.com/Gedsonfa/ignite) | [![GitHub stars](https://img.shields.io/github/stars/Gedsonfa/invAuto?style=flat)](https://github.com/Gedsonfa/ignite/stargazers) | [![GitHub last commit](https://img.shields.io/github/last-commit/Gedsonfa/ignite?style=flat&label=last)](https://github.com/Gedsonfa/ignite/commits) 
 
 <!--repos-end-->
 
